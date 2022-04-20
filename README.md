@@ -1,6 +1,17 @@
 # Summarizing-paragraphs-of-a-given-document-keywords-extraction
+
+
+
 Group project 
+N/ Summarizing-paragraphs-of-a-given-document-keywords-extraction
+1. Summarize text accurately and fast
+2. Extracting given keywords
+3. Simple interface to run modules
 
 
 
-https://github.com/ATrublie/Summarizing-paragraphs-of-a-given-document-keywords-extraction/blob/cc156661147e2d14da7d7d08c62d61f664b117da/High%20and%20low%20level%20Design/High%20level%20design.png
+
+
+
+
+
