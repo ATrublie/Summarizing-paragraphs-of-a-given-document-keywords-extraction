@@ -6,7 +6,7 @@ Group project
 3. Simple interface to run modules
 
 
-![main icon for the app (1)](https://user-images.githubusercontent.com/83951228/164170402-f8c26358-8c38-4bed-8db0-b0c5dd767505.jpg)
+![High level design](https://user-images.githubusercontent.com/83951228/164170944-5828e19e-c452-4a4f-b592-813c70d91796.png)
 
 
 
