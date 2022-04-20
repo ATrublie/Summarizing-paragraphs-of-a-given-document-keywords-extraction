@@ -13,3 +13,8 @@ Group project
 
 
 
+Concept map of project (Simple overview of each model and their purpose)
+
+![Concept map](https://user-images.githubusercontent.com/83951228/164172835-31afacc8-41f7-47c6-aa28-6c8e3ddd6561.png)
+
+
